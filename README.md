@@ -30,7 +30,7 @@ The digital pin 13 of Arduino is set to HIGH for 1 second, then LOW for 1 second
 
 ## 📸 Real Project Setup
 
-![Real Project](https://raw.githubusercontent.com/shashankshuklaa/led-blink-project/main/Real%20Project%20Setup.jpg)
+![Real Project](https://github.com/shashankshuklaa/-led-blink-project/blob/4ca6c1180b6a5eff16524a6d68ab22d32572cc36/Real%20Project%20Setup_arduinouno.jpg)
 
 ---
 
